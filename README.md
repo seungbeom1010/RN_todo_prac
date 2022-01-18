@@ -1,4 +1,4 @@
-# RN_todo
+# RN_todo_prac
 
 <p align="left">
 <img width="263" alt="스크린샷 2022-01-12 오후 8 49 58" src="https://user-images.githubusercontent.com/93919347/149135155-b4cda7f4-846d-46fa-b0c3-49baf9d9b499.png">
